@@ -21,7 +21,6 @@ c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\scopedcss\bundle\MvcMovie.styles.css
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-b9sayid5wm.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\s4h06sbw6r-61n19gt1b8.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\khii5gbrwk-xtxxf3hu2r.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\l0e8hya28e-bqjiyaj88i.gz
@@ -48,7 +47,6 @@ c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\w26ixfkiio-j5mq2jizvt.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\dpaui5zzqy-06098lyss8.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\zrrwvwssd2-nvvlpmu67g.gz
-c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\qgy282itky-s35ty4nyc5.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\2052hrb9ed-pj5nd1wqec.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\4ncd9i8iqs-46ein0sx1k.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\j2582vdc9v-v0zj4ognzu.gz
@@ -83,8 +81,6 @@ c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\b12rkeavf8-muycvpuwrr.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\t0lio4u95v-87fc7y1x7t.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\jm0hqmt69k-mlv21k5csn.gz
-c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\3w0sbgp9k0-fwjn205m9p.gz
-c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\lqewxh1gkt-fwjn205m9p.gz
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\staticwebassets.build.json
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\staticwebassets.build.json.cache
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\staticwebassets.development.json
@@ -361,3 +357,7 @@ c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.Up2Date
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
+C:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\qgy282itky-s35ty4nyc5.gz
+c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\3w0sbgp9k0-fwjn205m9p.gz
+c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\lqewxh1gkt-fwjn205m9p.gz
+c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week02\ASP.NET_Core_MVC\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-43usy34xa7.gz
